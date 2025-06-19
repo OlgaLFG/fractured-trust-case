@@ -1,0 +1,33 @@
+{
+  "case_id": "fractured-trust-ux-meta",
+  "title": "Fractured Trust \u2013 Narrative Simulation and Deployment",
+  "difficulty_rating": 9.8,
+  "tier": "Tier-S",
+  "tags": [
+    "#EvalPersonaSim",
+    "#MetaPromptCascade",
+    "#ShadowProtocolPing",
+    "#Narrative+Code",
+    "#OpenEvalReady"
+  ],
+  "components": {
+    "semantic_simulation": "high",
+    "multi-persona_roles": "high",
+    "visual_asset_generation": "medium-high",
+    "context_retention": "very high",
+    "format_switching": "very high",
+    "technical_deployment": "very high",
+    "recovery_from_interruption": "high"
+  },
+  "output_formats": [
+    "PDF",
+    "Markdown",
+    "GitHub Pages (HTML)",
+    "JSON",
+    "PNG",
+    "ZIP"
+  ],
+  "llm_stability_required": "extreme",
+  "user_guidance_needed": "medium",
+  "notes": "Case involves layered simulation, interrupted tool use, live deployment on GitHub, emotional modeling, and metacognitive reflection. Demonstrates upper-bound capabilities of structured LLM response chains."
+}
